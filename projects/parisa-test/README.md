@@ -32,3 +32,7 @@ Remove the 'private' field from the package.json to publish it.
 for use this library :
 
 npm i parisa-test@0.0.1
+
+## If we want use verdaccio for publish library
+
+https://imhazige.medium.com/use-verdaccio-to-publish-npm-package-to-a-local-repository-d086f11bc3fb
