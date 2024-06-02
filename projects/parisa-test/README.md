@@ -22,3 +22,13 @@ Run `ng test ParisaTest` to execute the unit tests via [Karma](https://karma-run
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Creating libraries and publish in npm
+
+https://angular.dev/tools/libraries/creating-libraries#publishing-libraries
+
+Remove the 'private' field from the package.json to publish it.
+
+for use this library :
+
+npm i parisa-test@0.0.1
